@@ -1,46 +1,32 @@
-# Java_POO
 
-# Sistema de Controle de Oficina Mecânica
 
-Este projeto foi desenvolvido como parte de um exercício prático de **Programação Orientada a Objetos (POO)** em **Java**, com o objetivo de aplicar conceitos como **pacotes, classes, atributos, métodos, instância de objetos e encapsulamento**.
+# **Repositório de Aulas – Programação Orientada a Objetos**
 
----
-
-##  Objetivo do Sistema
-
-Criar uma aplicação simples para controle básico de uma **oficina mecânica**, permitindo:
-
--  Cadastrar **clientes** (nome, CPF, endereço, telefone, e-mail);
--  Cadastrar **veículos** (placa, modelo, ano, fabricante, cor);
--  Exibir os dados cadastrados no console.
+Este repositório contém os materiais desenvolvidos durante as aulas de **Programação Orientada a Objetos (POO)**, incluindo exercícios, exemplos, projetos e demais atividades práticas relacionadas ao conteúdo da disciplina.
 
 ---
 
-##  Estrutura do Projeto
+## **Finalidade do Repositório**
 
-src/
-├── modelo/
-│ ├── Cliente.java → Classe que representa os dados do cliente.
-│ └── Veiculo.java → Classe que representa os dados do veículo.
-└── controle/
-└── Principal.java → Classe principal que executa o programa.
+O objetivo deste repositório é:
 
-- **Pacote `modelo`**: contém as classes que modelam os objetos do sistema.  
-- **Pacote `controle`**: contém a classe `Principal`, responsável por iniciar o programa e controlar a execução.
+* Organizar os códigos produzidos ao longo da disciplina;
+* Registrar a evolução do aprendizado;
+* Facilitar revisões e consultas futuras;
+* Servir como base para estudos e desenvolvimento de projetos acadêmicos.
 
 ---
 
-##  Tecnologias Utilizadas
+## **Conteúdos Abordados**
 
-- **Linguagem:** Java  
-- **Paradigma:** Programação Orientada a Objetos (POO)  
-- **IDE sugerida:** NetBeans (pode ser executado em qualquer IDE Java)
+Os materiais aqui presentes contemplam os seguintes tópicos:
 
-  ## Conceitos Aplicados
-
-- **Encapsulamento:** uso de `private` nos atributos e `getters/setters` para acesso controlado.  
-- **Construtores:** inicialização de objetos com parâmetros.  
-- **Instanciação:** criação de objetos com o operador `new`.  
-- **Pacotes:** organização lógica do código (`modelo` e `controle`).  
-- **Entrada de dados:** leitura com `Scanner`.  
-- **Métodos:** separação de responsabilidades (`exibirDados()` em cada classe).
+* Conceitos básicos de POO
+* Criação de classes e objetos
+* Encapsulamento e métodos acessores
+* Construtores
+* Herança
+* Polimorfismo
+* Interfaces
+* Tratamento de exceções (nível introdutório)
+* Exercícios e projetos propostos em sala de aula
